@@ -1,0 +1,30 @@
+GITHUB REPO DATASET SUMMARY
+============================================================
+Total repos   : 300
+Languages     : 1
+Avg stars     : 54,363
+Max stars     : 439,005
+
+TOP 20 REPOS
+------------------------------------------------------------
+                                  name  stars  forks language
+               public-apis/public-apis 439005  48115   Python
+EbookFoundation/free-programming-books 389571  66404   Python
+      donnemartin/system-design-primer 351554  56559   Python
+                  vinta/awesome-python 301018  28034   Python
+                  TheAlgorithms/Python 221609  50705   Python
+          Significant-Gravitas/AutoGPT 184724  46190   Python
+             NousResearch/hermes-agent 178182  30520   Python
+                         yt-dlp/yt-dlp 167632  14091   Python
+  AUTOMATIC1111/stable-diffusion-webui 163408  30370   Python
+              huggingface/transformers 161230  33393   Python
+              521xueweihan/HelloGitHub 159887  12101   Python
+                  langflow-ai/langflow 149158   9179   Python
+                     anthropics/skills 145915  17194   Python
+                  microsoft/markitdown 142122   9690   Python
+                   ytdl-org/youtube-dl 140413  10673   Python
+                 open-webui/open-webui 139799  20074   Python
+                langchain-ai/langchain 138394  22929   Python
+                anthropics/claude-code 129755  21089   Python
+                     Comfy-Org/ComfyUI 115504  13508   Python
+         Shubhamsaboo/awesome-llm-apps 112711  16722   Python
