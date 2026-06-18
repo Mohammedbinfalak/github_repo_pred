@@ -1,10 +1,14 @@
-# app.py
+import os
 import streamlit as st
 import pickle
 import numpy as np
 
 # ── load model ─────────────────────────────────────────
-model  = pickle.load(open("model.pkl",  "rb"))
+if not os.path.exists("model.pkl"):
+    st.error("model.pkl not found — run training notebook first")
+    st.stop()
+
+model  = pickle.load(open("model.pkl", "rb"))
 scaler = pickle.load(open("scaler.pkl", "rb"))
 
 # ── page config ────────────────────────────────────────
